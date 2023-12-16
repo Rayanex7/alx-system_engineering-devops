@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pa | grep -E "^[0-9A-Za-z]" 
+ls -am
